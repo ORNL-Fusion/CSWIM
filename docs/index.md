@@ -26,7 +26,7 @@ SWIM was jointly funded by the [Office of Fusion Energy Sciences](https://scienc
 It was part of the [Scientific Discovery through Advanced Computing](http://www.scidac.gov/)  (SciDAC) program, in response to Program Announcement [LAB 05-11 Scientific Discovery through Advanced Computing - Fusion Simulation Prototype Centers](https://science.energy.gov/~/media/grants/pdf/lab-announcements/2005/LAB_05-11.pdf) 
 
 ### Leadership
- SWIM has four Principal Investigators representing the three major research disciplines contributing to the project:
+ SWIM had four Principal Investigators representing the three major research disciplines contributing to the project:
 
  * Don Batchelor, ORNL, Physics & Lead PI
  * David E. Bernholdt, ORNL, Computer Science
@@ -34,7 +34,7 @@ It was part of the [Scientific Discovery through Advanced Computing](http://www.
  * David Keyes, Columbia U, Applied Mathematics
 
 ### Participating Institutions
-*(alphabetical by institution)*
+*(in alphabetical order)*
 
 * Columbia University
 * CompX
@@ -49,7 +49,7 @@ It was part of the [Scientific Discovery through Advanced Computing](http://www.
 * University of Wisconsin
 
 ## People
-*(this list includes funded participants and collaborators from the community)*
+*(includes funded participants and major collaborators)*
 
 Name | Institution
 ---------|--------------
