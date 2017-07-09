@@ -29,71 +29,25 @@ It was part of the [Scientific Discovery through Advanced Computing](http://www.
  * Steve Jardin, PPPL, Physics
  * David Keyes, Columbia U, Applied Mathematics
 
-### Participating Institutions
+### Participants and Collaborators
 *(in alphabetical order)*
 
-* Columbia University
-* CompX
-* General Atomics
-* Indiana University
-* Lawrence Berkeley National Laboratory
-* Massachusetts Institute of Technology
-* New York University
-* Oak Ridge National Laboratory
-* Princeton Plasma Physics Laboratory
-* Tech-X Corp.
-* University of Wisconsin
-
-## People
-*(includes funded participants and major collaborators)*
-
-Name | Institution
----------|--------------
-Don Batchelor | ORNL (FED)
-David E. Bernholdt | ORNL (CSM)
-Lee Berry | ORNL (FED)
-Paul Bonoli | MIT (PSFC) 
-Randall Bramley | Indiana Univ (CS) 
-Josh Breslau | PPPL 
-John Cary | TechX 
-Vincent Chan | General Atomics (fusion group)
-Morrell S. Chance | PPPL 
-CS Chang | NYU (CIMS) 
-Jin Chen | PPPL 
-Myunghee Choi | General Atomics (fusion group)
-Ron Cohen | LLNL
-Phil Colella | LBL
-Ed D'Azevedo | ORNL (CSM)
-Wael R. Elwasif | ORNL (CSM)
-George Fann | ORNL (CSM)
-Elliot Feibush | PPPL
-Samantha Foley | ORNL (CSM)
-Guo-Yong Fu | PPPL
-Bob Harvey | CompX 
-Chris Hegna | Univ. Wisconsin (EP)
-Steven Hirshman | ORNL (ncsx)
-Wayne Houlberg | ORNL (ncsx)
-Fred Jaeger | ORNL (FED)
-Steve Jardin | PPPL
-Tom Jenkins | Tech-X
-David Keyes | Columbia Univ. (AP/AM)
-Jim (Jeembo) Kohl | ORNL (CSM)
-Scott Kruger | Tech-X
-Long-Poe Ku | PPPL
-Lang Lao | General Atomics (fusion group)
-Linda Lodestro | LLNL
-Doug McCune | PPPL
-Wonchull Park | PPPL
-Donald Pearlstein | LLNL 
-Jesus Ramos | MIT (PSFC)
-Raul Sanchez | UC3M
-David Schissel | General Atomics (fusion group) 
-Dalton Schnack | Univ. Wisconsin
-Don Spong | ORNL (FED)
-Holger St. John | General Atomics (fusion group)
-Henry R. Straus | NYU (Math)
-Linda Sugiyama | MIT (PSFC)
-John Wright | MIT (PSFC)
+Institution | Participants
+------------|-------------
+Columbia University | David Keyes
+CompX | Bob Harvey
+General Atomics | Vincent Chan, Myunghee Choi, Lang Lao, David Schissel, Holger St. John
+Indiana University | Randall Bramley, Samantha Foley
+Lawrence Berkeley National Laboratory | Phil Colella
+Massachusetts Institute of Technology | Paul Bonoli, Jesus Ramos, Linda Sugiyama, John Wright
+New York University | CS Chang, Henry R. Straus
+Oak Ridge National Laboratory | Don Batchelor, David E. Bernholdt, Lee Berry, Ed D'Azevedo, Wael R. Elwasif, George Fann, Samantha Foley, Steven Hirshman, Wayne Houlberg, Fred Jaeger, Jim (Jeembo) Kohl, Don Spong
+Princeton Plasma Physics Laboratory | Josh Breslaum Morrell S. Chance, Jin Chen, Elliot Feibush, Guo-Yong Fu, Steve Jardin, Long-Poe Ku, Doug McCune, Wonchull Park
+Tech-X Corp. | John Cary, Tom Jenkins, Scott Kruger
+University of Wisconsin | Chris Hegna, Dalton Schnack
+*Collaborators*
+Lawrence Livermore National Laboratory | Ron Cohen, Linda Lodestro, Donald Pearlstein
+UC3M | Raul Sanchez
 
 ## Software Products
 
