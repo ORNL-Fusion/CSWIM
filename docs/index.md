@@ -42,7 +42,7 @@ Lawrence Berkeley National Laboratory | Phil Colella
 Massachusetts Institute of Technology | Paul Bonoli, Jesus Ramos, Linda Sugiyama, John Wright
 New York University | CS Chang, Henry R. Straus
 Oak Ridge National Laboratory | Don Batchelor, David E. Bernholdt, Lee Berry, Ed D'Azevedo, Wael R. Elwasif, George Fann, Samantha Foley, Steven Hirshman, Wayne Houlberg, Fred Jaeger, Jim (Jeembo) Kohl, Don Spong
-Princeton Plasma Physics Laboratory | Josh Breslaum Morrell S. Chance, Jin Chen, Elliot Feibush, Guo-Yong Fu, Steve Jardin, Long-Poe Ku, Doug McCune, Wonchull Park
+Princeton Plasma Physics Laboratory | Josh Breslau, Morrell S. Chance, Jin Chen, Elliot Feibush, Guo-Yong Fu, Steve Jardin, Long-Poe Ku, Doug McCune, Wonchull Park
 Tech-X Corp. | John Cary, Tom Jenkins, Scott Kruger
 University of Wisconsin | Chris Hegna, Dalton Schnack
 *Collaborators* |
