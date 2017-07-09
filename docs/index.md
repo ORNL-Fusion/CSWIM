@@ -29,7 +29,7 @@ It was part of the [Scientific Discovery through Advanced Computing](http://www.
  * Steve Jardin, PPPL, Physics
  * David Keyes, Columbia U, Applied Mathematics
 
-## Participants and Collaborators
+## Project Participants
 *(in alphabetical order)*
 
 Institution | Participants
@@ -45,7 +45,7 @@ Oak Ridge National Laboratory | Don Batchelor, David E. Bernholdt, Lee Berry, Ed
 Princeton Plasma Physics Laboratory | Josh Breslaum Morrell S. Chance, Jin Chen, Elliot Feibush, Guo-Yong Fu, Steve Jardin, Long-Poe Ku, Doug McCune, Wonchull Park
 Tech-X Corp. | John Cary, Tom Jenkins, Scott Kruger
 University of Wisconsin | Chris Hegna, Dalton Schnack
-*Collaborators*
+*Collaborators* |
 Lawrence Livermore National Laboratory | Ron Cohen, Linda Lodestro, Donald Pearlstein
 UC3M | Raul Sanchez
 
