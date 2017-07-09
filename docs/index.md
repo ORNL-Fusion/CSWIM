@@ -29,7 +29,7 @@ It was part of the [Scientific Discovery through Advanced Computing](http://www.
  * Steve Jardin, PPPL, Physics
  * David Keyes, Columbia U, Applied Mathematics
 
-### Participants and Collaborators
+## Participants and Collaborators
 *(in alphabetical order)*
 
 Institution | Participants
