@@ -2,7 +2,7 @@
 
 ## About this site
 
-*The SWIM project was active from (roughly) August 2005 through July 2012.  The project site, using the **http://cswim.org** domain, was hosted at Oak Ridge National Laboratory from August 2005 through August 2017.*
+*The SWIM project was active from (roughly) August 2005 through July 2012.  The project site, using the **```http://cswim.org```** domain, was hosted at Oak Ridge National Laboratory from August 2005 through August 2017.*
 
 *This is **not** a reproduction of the project site, but rather an attempt to preserve some key information about the project, participants, and results for archaeological purposes.*
 
