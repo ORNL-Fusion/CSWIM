@@ -6,7 +6,7 @@
 
 *This is **not** a reproduction of the project site, but rather an attempt to preserve some key information about the project, participants, and results for archaeological purposes.*
 
-*Since this content represents an historical snapshot, information and links presented here may no longer be correct.  However if you think something really needs to be corrected here, please file an issue.*
+*Since this content represents an historical snapshot, information and links presented here may no longer be correct.  However if you think something really needs to be corrected here, please file an [issue](https://github.com/ORNL-Fusion/cswim/issues)*
 
 ## About CSWIM
 
